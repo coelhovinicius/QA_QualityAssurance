@@ -1,0 +1,174 @@
+QA - Quality Assurance - Introdução
+
+O profissional de QA é o responsável por garantir a qualidade do produto, buscando, analisando e reparando possiveis bugs.
+
+Perguntas para quem quer entender QA:
+
+- O que é um Teste?
+- O que o testador faz?
+- Por que é necessário testar?
+- Quais os benefícios de se efetuarem testes, para a organização.
+
+Um teste não garante que 100% dos erros sejam eliminados. Não há softwares com 100% de certeza de que não haja bugs. Os erros são prevenidos, porém, não em 100% da aplicação.
+
+Processos de Testes:
+
+Um Processo de Teste de Software tem como objetivo estruturar as etapas, atividades, artefatos, os papéis e as responsabilidades do teste, permitindo organização e controle de todo o ciclo do teste, minimizando os riscos e agregando valor ao software.
+
+Quando um testador recebe uma atividade:
+
+- Levantar um cenário de testes;
+- Há vários tipos de processos;
+- Saber o contexto da organização para aplicar o teste mais preciso.
+
+Incumbências de um profissional em QA:
+
+- Assegurar a qualidade do produto;
+- Testar os aplicativos de todos os tipos, podendo ser aplicativos WEB, Desktop ou Mobile;
+- Buscar erros no produto;
+- Avaliar a Experiência de Usuário para encontrar dificuldades potenciais.
+
+
+Para ingressar à área de QA não é exigido, necessariamente, conhecimentos aprofundados em linguagens de programação, porém, esses conhecimentos são extremamente importantes para o desenvolvimento do profissional dentro da área de QA. Por exemplo, para Automação de Testes, há a necessidade de algum conhecimento em desenvolvimento de softwares.
+
+Entenda o processo de desenvolvimento do produto em que está atuando.
+
+- Conhecimento sobre o funcionamento do Back-End e do Front-End do produto - Integração entre essas duas entidades.
+
+
+Há diversos tipos de Testes, que devem ser aplicados dependendo do cenário do produto. Saber qual tipo de teste utilizar em cada situação é importante.
+
+Técnicas de Testes - Tipos:
+
+- Teste Caixa-Branca;
+- Teste Caixa-Preta;
+- Teste Caixa-Cinza;
+- Teste Exploratório;
+- Teste de Carga; 
+- Etc..
+
+Entender o que cada tipo de teste faz e saber aplicar na prática: Para um bom profissional em QA, é necessário o conhecimento dos principais testes existentes.
+
+
+Níveis de Testes - Exemplos:
+
+- Para Front-End, podemos utilizar, por exemplo, Teste End-to-End (aplicação completa);
+- Para Back-End, podemos utilizar, por exemplo, Teste de Serviço.
+
+Deve-se entender a Pirâmide de Testes e aplicá-la no dia-a-dia.
+
+
+Conhecimentos Importantes para Profissionais de QA:
+
+- Testes de Aplicações WEB:
+	> Incumbências de um Testador;
+	> Testes de Campos de Texto;
+	> Testes de Campos Numéricos e de Datas;
+	> Testes em Formulários;
+	> Formulários de Autorização;
+	> Testes Positivos e Negativos;
+	> Cenários de Testes;
+	> Testes Não-Funcionais: API;
+	> Testes Não-Funcionais: UX;
+	> Testes Não-Funcionais - Seguridade;
+	> Ferramentas Adicionais de Testes;
+	> Automatização de Testes.
+
+- Testes de Aplicativos Móveis;
+	> Princípios de Testes Móveis;
+	> Orientação e Tela;
+	> Emulação e Simulação;
+	> Compilação dos Aplicativos;
+	> Locação e Bateria;
+	> Conexão;
+	> Registros.
+
+- Java;
+	> Sintaxe da Linguagem Java;
+	> Sistema de Controle de Versão;
+	> Objetos e Classes;
+	> Números, Textos, Datas e Enumeration;
+	> Vetores e Coleções;
+	> Herança;
+	> Polimorfismo;
+	> Caractetísticas da Programação Orientada a Objeto no Java.
+
+- Noções de Desenvolvimento Front-End;
+	> Ferramentas para desenvolvedores Front-End;
+	> Marcação de Páginas;
+	> HTML;
+	> Estrutura do Layout e Conteúdo;
+	> Estilos de Formatação: CSS.
+
+- Testes Automatizados em Java;
+	> Selenium WebDriver;
+	> Locação de Elementos com CSS;
+	> XPath Locators;
+	> Compilação de Testes.
+	
+- Conhecimentos em Outras Linguagens de Programação.
+	> Ferramenta GIT;
+	> SQL e Bancos de Dados.
+
+
+CURRICULUM de um bom QA:
+
+- Técnicas de Apresentação;
+- Compreensão da Perspectiva do Usuário;
+- Trabalho em equipe;
+- Perseverança;
+- Proatividade;
+- Experiência em participações em Workshops, Clubes de Discussões, StandUps e mais;
+- Projetos reais no Portfolio;
+- Testes de Aplicações WEB;
+- Testes Automatizados;
+- Testes Não-Funcionais;
+- Testes de Aplicativos Móveis;
+- Conhecimento dos Processos de Desenvolvimento de Sistemas e Aplicativos.
+
+
+Deve-se ter Conhecimentos em Programação:
+
+- Lógica de Programação;
+- Algorítmos;
+- Necessário para se ter conhecimentos técnicos em Desenvolvimento.
+
+APRENDER JAVA É IMPORTANTE - Fazer Automações em Java.
+
+Soft Skills importantes para QA:
+
+- Boa comunicação - ser claro e objetivo ao se comunicar com a equipe;
+- Empatia;
+- Inteligência Emocional.
+
+Como fazer o Teste: Devem-se verificar diversos pontos:
+
+- Qual Teste mais adequado a se utilizar para a demanda determinada;
+- Verificar as questões de Experiência de Usuário (por exemplo: Acessibilidade para pessoas com deficiência visual);
+- Testar a Performance do produto;
+- Verificar cada ponto do produto para detectar possíveis bugs, por exemplo, utilizando caracteres que não devem ser utilizados, colocando espaços em campos que não permitem isso, colocando informações erradas ou falsas;
+- Inserir linhas de código nos campos, para verificar se há problemas de segurança, entre outros;
+- Prever todos os riscos possíveis de bugs no produto.
+
+Como Teste de Acessibilidade, por exemplo, podemos testar o uso da tecla TAB, verificando se está funcionando corretamente, passando todos os campos necessários.
+
+Testes de Caixa-Preta - testes básicos: Testar o fluxo do sistema, sem entrar no âmbito dos códigos. Por exemplo: testar tela de Login e Senha colocando os dados e verificando se está funcionando corretamente.
+
+
+Funções do QA:
+
+- Identificar e comunicar possíveis falhas, riscos e defeitos ao longo do processo;
+- Validar o processo ao final de cada etapa;
+- Domínio das funções de determinado software;
+- Garantir que o software corresponda às necessidades do cliente;
+- Análise de teste;
+- Análise de negócios;
+- Estratégia de teste;
+- Teste manual;
+- Automação de teste;
+- Testes exploratórios;
+- Testes de regressão;
+- Teste de Requisitos de Funcionalidade Cruzada;
+- Criação e manutenção de dados de teste;
+- DevOps;
+- Teste de manutenção e refatoração.

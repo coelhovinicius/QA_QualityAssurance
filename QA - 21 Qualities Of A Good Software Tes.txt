@@ -1,0 +1,47 @@
+21 Qualities Of A Good Software Tester
+
+Every organization is using technology these days. From big media to textile giants, mutual funds to startups, each one has their unique requirements for software and automation. While development and implementation of the software is vital to these organizations, there is a growing need for good software testers who love testing. There is no shortage of software tester jobs that pay a good salary. One commonly asked question is “How to become a software tester?” Before one goes into the technical details of software testing, its important to ensure that you have the characteristics required for a tester.
+
+Software testers are the backbone of all organizations because they are the ones who are responsible for ensuring the quality of the project or product. But how do you spot the ‘best of the best’ among testers? Here are 21 qualities and characteristic that are often seen in great testers:
+
+- Creative Mind: This is one of the most indispensable traits of a great software tester. Test professionals need to think much beyond what is expected of the software and the users. They must be able to think how users can do things that are certainly not spelled out in the software requirements, or how they may misuse the software;
+
+- Analytical Skills: These skills are a must for requirement analysis and for understanding client feedback while defining the test strategy. Analytical skills are also imperative to gain the insight, in order to build smart testing solutions. Testers need to comprehend data collected from testing and analyze them for specific behaviour of product or application;
+
+- Curiosity: The trait is indispensable when it comes to considering the consequences. Curious testers will often think out of the box, so that they can determine problems in areas where no one else can even think to look;
+
+- Good Listener: It is a great quality of testers to listen to others. They must know that there is always a room for improvement. They must also pay attention if anyone is giving any idea or implication, as this will certainly help them to improve the quality of the software program under test. You may uncover some scenarios that others may miss if they are not paying attention;
+
+- Proactively Passionate: The responsibility of a great tester is not just to validate software programmes against the set of requirements. Great testers are passionate about their work and provide suggestions to improve the product. Testers who are passionate sometimes also go on to become Project Managers or Product Owners;
+
+- Quick Learner: Great testers must be well acquainted with technology. They must always be open to learn new automation tools, keep up with the latest technology, use the latest techniques while testing, learn from their experiences and learn to come up with new ideas;
+
+- Domain Knowledge: In order to execute a successful testing session and design effective tests, good testers must have strong knowledge and understanding of the applications domain. They must have deep insight into how the end users will exploit the program. They must also spend time to understand the terminology of their specific domain and help devise strategic business case scenarios;
+
+- Client-Oriented: Great Testers must always try to make their clients happy. They must understand that customers do not possess the same technical skills as testers. Clients may not have the expertise in the domain or technology and may not have though of all the scenarios and use cases that may come up. They must make the best use of their testing skills keeping in mind their client’s mindset while delivering the product their clients actually demand;
+
+- Test Automation And Technical Knowledge: They must have sound technical knowledge to determine which tests must be automated at which layer, execute tests on a constant basis, utilize the availability of various testing tools, provide worthwhile metrics to the organization and choose the appropriate and latest set of tools in order to help the testing effort;
+
+- Ability To Organize And Prioritize: A great tester must have the ability to first identify and organize essential tests and later prioritize execution based on the test relevance. Also while evaluating test efforts, good testers must consider the defect history;
+
+- Ability To Communicate: They must have the ability to communicate with both non technical and technical people. They must also posses the ability to effectively communicate well in written or oral form and convey the details of a problem to the development team. A good step by step document for reproducing the defect helps developers focus their effort on fixing the issue rather than back and forth communication;
+
+- Ability To Report: No one will be interested in knowing the number of test cases executed by the software testers. That is why, a good tester must be good at reporting their current status at the end of the day. They must provide effective and detailed bug reports and also attach screenshots if possible along with the report;
+
+- Attention To Detail: Great testers have an eye for detail. This quality is useful when validating complex business logic and ensuring that all scenarios are covered. It also helps avoid penalties or higher cost of fixing defects that are found late in the cycle or after production release;
+
+- Business Oriented: A great software tester must be able to understand software from a business point of view, appreciate clients requirements, have the ability to understand people from non technical point of view. He must also be able to understand how business issues can be converted into technical solutions;
+
+- Intellectual Ability: They must be smart enough to use their logical ability, in order to operate in a high level testing environment. They must have the ability to troubleshoot the source of a problem and solve it in the best possible way;
+
+- Good Observer: Keeping track of the minor as well as major project related items being discussed is extremely important for a great  tester. In an dynamic environment like a startup, things change quickly. It is important to be able to access the impact of the change and stay on top of the changes. Furthermore, tracking their test progress and making necessary changes, if required is also very crucial;
+
+- Good Time Manager: Most teams will be constrained by the amount of time available for development and testing. Testers need to understand their priority and manage their time well. They need to know what must be tested and what must be given less priority. Which tasks must be taken up first and which can be done at the end, what must be automated and what must be tested manually. How important is documentation compared to actually executing the test case, in the given time? They must be able to answer on these and other questions and help their managers take the right decision;
+
+- Perseverance: Great testers never give up. They are patient enough to find as many bugs as they can. They explore the software, constantly try to make new improvements and take all the testing challenges and complexities positively and patiently;
+
+- Ability To Identify And Manage Risks: They must be able to understand proper risk management process – risk identification, risk analysis and risk alleviation. Software testing must be based on incorporating risk driven testing processes;
+
+- Quality Oriented: Great software professionals do not compromise on quality in any testing stage. Quality oriented results always lead to defect (almost) free software and ensure top-notch quality;
+
+- Ability To Work In A Team: Software testers must be able to work well inside and outside the team. Exchanging ideas, knowledge, experience and thoughts can boost the quality and the efficiency of the solution, so great testers must always be eager to coordinate well with their team members and other teams as well.
