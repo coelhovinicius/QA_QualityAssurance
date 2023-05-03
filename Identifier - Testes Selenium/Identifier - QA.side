@@ -1,0 +1,281 @@
+{
+  "id": "a2a737f9-b1e7-4d3d-8cac-03718ce4b914",
+  "version": "2.0",
+  "name": "Identifier - QA",
+  "url": "http://labsoft.muz.ifsuldeminas.edu.br/projetos/identifier/",
+  "tests": [{
+    "id": "3739a7c5-3ae0-4f25-991b-f83782b8c4cc",
+    "name": "Teste Invalido - Iniciar com numero",
+    "commands": [{
+      "id": "dba26669-0296-4aea-8501-c1aa08cf9bbb",
+      "comment": "",
+      "command": "open",
+      "target": "/projetos/identifier/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "98e98832-6b0c-49b4-9a29-b3986f8910db",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x736",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9dd8a5f8-2577-4116-be00-02cc3cada3d9",
+      "comment": "",
+      "command": "click",
+      "target": "id=texto",
+      "targets": [
+        ["id=texto", "id"],
+        ["name=texto", "name"],
+        ["css=#texto", "css:finder"],
+        ["xpath=//input[@id='texto']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4a26fe7a-8afa-454d-b639-e0ad2647df5e",
+      "comment": "",
+      "command": "type",
+      "target": "id=texto",
+      "targets": [
+        ["id=texto", "id"],
+        ["name=texto", "name"],
+        ["css=#texto", "css:finder"],
+        ["xpath=//input[@id='texto']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "1"
+    }, {
+      "id": "6dc60a7f-0f17-4e80-b3ed-8ced7cd08a43",
+      "comment": "",
+      "command": "click",
+      "target": "name=submit",
+      "targets": [
+        ["name=submit", "name"],
+        ["css=.button", "css:finder"],
+        ["xpath=//input[@name='submit']", "xpath:attributes"],
+        ["xpath=//form/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0717b01b-f060-4d51-8fc6-fd22a128bc99",
+      "comment": "",
+      "command": "click",
+      "target": "css=html",
+      "targets": [
+        ["css=html", "css:finder"],
+        ["xpath=//html", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "f90d5ee8-a76a-43d5-a399-7aff87869f5c",
+    "name": "Teste Valido - Iniciar com letra e ter de 1 a 6 digitos",
+    "commands": [{
+      "id": "db5c4800-a81a-4c09-8dca-db09900eccac",
+      "comment": "",
+      "command": "open",
+      "target": "http://labsoft.muz.ifsuldeminas.edu.br/projetos/identifier/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "789c8276-22bb-4d76-b2dc-80ded527cad1",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "550x692",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f79265b8-37b3-4769-91ce-b17e332f2c66",
+      "comment": "",
+      "command": "click",
+      "target": "id=texto",
+      "targets": [
+        ["id=texto", "id"],
+        ["name=texto", "name"],
+        ["css=#texto", "css:finder"],
+        ["xpath=//input[@id='texto']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "77f8f355-4097-4f31-b1df-23430b9103cb",
+      "comment": "",
+      "command": "type",
+      "target": "id=texto",
+      "targets": [
+        ["id=texto", "id"],
+        ["name=texto", "name"],
+        ["css=#texto", "css:finder"],
+        ["xpath=//input[@id='texto']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "a12345"
+    }, {
+      "id": "e9b6c743-de9c-4f45-9860-01423035c59a",
+      "comment": "",
+      "command": "click",
+      "target": "name=submit",
+      "targets": [
+        ["name=submit", "name"],
+        ["css=.button", "css:finder"],
+        ["xpath=//input[@name='submit']", "xpath:attributes"],
+        ["xpath=//form/input", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "39c06fff-f589-4f8a-8352-c6f83fe7d788",
+    "name": "Teste Invalido - Em branco",
+    "commands": [{
+      "id": "fdeccaa3-d1bb-43df-aa04-d25d8683b689",
+      "comment": "",
+      "command": "open",
+      "target": "http://labsoft.muz.ifsuldeminas.edu.br/projetos/identifier/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "74248041-914e-4098-819b-c20a06e9529d",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "550x693",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "83c18f49-4fcd-41a1-a9ac-c8389acd388b",
+      "comment": "",
+      "command": "click",
+      "target": "name=submit",
+      "targets": [
+        ["name=submit", "name"],
+        ["css=.button", "css:finder"],
+        ["xpath=//input[@name='submit']", "xpath:attributes"],
+        ["xpath=//form/input", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "94f0af0c-cd01-455a-82e0-d11b910d9dd8",
+    "name": "Teste Invalido - Mais de 6 digitos",
+    "commands": [{
+      "id": "6918ce2f-210c-4435-9cca-7880e37c3f83",
+      "comment": "",
+      "command": "open",
+      "target": "http://labsoft.muz.ifsuldeminas.edu.br/projetos/identifier/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "637e9540-e791-4b52-9f0f-3dd83c31c70d",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "550x693",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1790bf0c-b9bf-4b00-9b12-14901106debd",
+      "comment": "",
+      "command": "click",
+      "target": "id=texto",
+      "targets": [
+        ["id=texto", "id"],
+        ["name=texto", "name"],
+        ["css=#texto", "css:finder"],
+        ["xpath=//input[@id='texto']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "613ec84f-78d9-4796-8797-895726a9cb86",
+      "comment": "",
+      "command": "type",
+      "target": "id=texto",
+      "targets": [
+        ["id=texto", "id"],
+        ["name=texto", "name"],
+        ["css=#texto", "css:finder"],
+        ["xpath=//input[@id='texto']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "a123456"
+    }, {
+      "id": "be8a8d8c-0058-4ffe-93e5-ac0181234eb6",
+      "comment": "",
+      "command": "click",
+      "target": "name=submit",
+      "targets": [
+        ["name=submit", "name"],
+        ["css=.button", "css:finder"],
+        ["xpath=//input[@name='submit']", "xpath:attributes"],
+        ["xpath=//form/input", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "5aed058f-3f97-4567-9806-76fd8766e061",
+    "name": "Teste Invalido - Caractetes invalidos",
+    "commands": [{
+      "id": "3eba7b37-3cb5-4f3e-ae36-c495c58102bf",
+      "comment": "",
+      "command": "open",
+      "target": "http://labsoft.muz.ifsuldeminas.edu.br/projetos/identifier/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "92b4070b-5921-4601-8223-913e17a865b8",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "550x693",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f1088898-0cf5-45f0-808b-1d6af597abab",
+      "comment": "",
+      "command": "click",
+      "target": "id=texto",
+      "targets": [
+        ["id=texto", "id"],
+        ["name=texto", "name"],
+        ["css=#texto", "css:finder"],
+        ["xpath=//input[@id='texto']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0c0ad418-b22d-4b4a-a4f2-ed863c095983",
+      "comment": "",
+      "command": "type",
+      "target": "id=texto",
+      "targets": [
+        ["id=texto", "id"],
+        ["name=texto", "name"],
+        ["css=#texto", "css:finder"],
+        ["xpath=//input[@id='texto']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "a12/54"
+    }, {
+      "id": "ee55e5e6-eae5-43cc-a746-2bb2d6528510",
+      "comment": "",
+      "command": "click",
+      "target": "name=submit",
+      "targets": [
+        ["name=submit", "name"],
+        ["css=.button", "css:finder"],
+        ["xpath=//input[@name='submit']", "xpath:attributes"],
+        ["xpath=//form/input", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "34386895-dc21-4640-83ab-b84b88051bb6",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["3739a7c5-3ae0-4f25-991b-f83782b8c4cc"]
+  }],
+  "urls": ["http://labsoft.muz.ifsuldeminas.edu.br/", "http://labsoft.muz.ifsuldeminas.edu.br/projetos/identifier/"],
+  "plugins": []
+}
