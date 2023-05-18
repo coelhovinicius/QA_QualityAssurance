@@ -1,0 +1,17 @@
+{
+  "id": "5146c4b9-e797-43a1-a92a-dd18e89eff7f",
+  "version": "2.0",
+  "name": "TesteTrivago",
+  "url": "https://auth.trivago.com/",
+  "tests": [],
+  "suites": [{
+    "id": "a92c5470-cc83-4aa9-9371-5ea0205daa41",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["https://auth.trivago.com/"],
+  "plugins": []
+}

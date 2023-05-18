@@ -1,0 +1,11 @@
+Selenium IDE
+
+- Assert Text - Verifica se um texto está presente;
+- Assert Element Present - Verifica se um Elemento está presente, como Botão ou Caixa de Texto ou Combo Box, entre outros elementos;
+- Devemos nomear cada teste com "CT01". É de bom uso não utilizar espaços para os nomes dos casos de teste. Exemplo: "CT01_CenarioPrincipal";
+- Devem-se inserir comentários em todos os passo dos testes no Selenium IDE. Nos logs dos comandos dos casos de teste, pressionar Botão direito sobre o Comando a ser comentado e Inserir Novo Comentário;
+- Quando há testes em que o "click" no log não seja "click and wait", é interessante adicionar um "Pause", onde é possível definir milissegundos para o "wait". Isso evita erros nos testes pela velocidade de execução automática;
+- Também é interessante colocar as execuções para rodar mais lento, pois também evita crash no teste;
+- Apertando a tecla "S" na linha do log desejada selecionada, dá a possibilidade de que iniciemos o teste à partir desse determinado passo do teste;
+- Brakepoint: Tecla "B" na linha desejada selecionada;
+- 
